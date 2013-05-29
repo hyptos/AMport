@@ -1,0 +1,408 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ri",
+				"right"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"fade",
+				"fadeIn  (function)"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"has",
+				"hasClass  (function)"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"wor",
+				"work-zepass"
+			],
+			[
+				"work",
+				"work-opera"
+			],
+			[
+				"opera",
+				"opera-content"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"inner",
+				"inner-photo"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"som",
+				"sommeTotalaPayer"
+			],
+			[
+				"c",
+				"currMonth"
+			],
+			[
+				"ca",
+				"capital"
+			],
+			[
+				"l",
+				"label	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 12738,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "assets/css/style.css",
+			"settings":
+			{
+				"buffer_size": 6668,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "assets/js/am.js",
+			"settings":
+			{
+				"buffer_size": 3576,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 63.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			],
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 504.0
+	},
+	"console":
+	{
+		"height": 147.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/AM/assets/css/bootstrap.css",
+		"/C/Users/Antoine/Desktop/MorphingDevices/js/morphingdevice.js",
+		"/C/Users/Antoine/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/C/xampp/htdocs/AM/contact.php",
+		"/C/Users/Antoine/Desktop/toto.R",
+		"/C/xampp/htdocs/AM/LISEZ-MOI",
+		"/C/Users/Antoine/Desktop/AM/index.html",
+		"/C/Users/Antoine/Desktop/AM/assets/css/style.css",
+		"/C/Users/Antoine/Desktop/AM/contact.php",
+		"/C/Program Files/Steam/SteamApps/common/dota 2 beta/dota/cfg/autoexec.cfg",
+		"/C/Users/Antoine/Desktop/AM/assets/js/jquery.contact.js",
+		"/C/Users/Antoine/Desktop/amartin/index1.php",
+		"/C/Users/Antoine/Desktop/amartin/javascript/jquery.contact.js",
+		"/C/Users/Antoine/Desktop/amartin/script.js",
+		"/C/Users/Antoine/Desktop/tmp.txt",
+		"/C/Users/Antoine/Desktop/AM/opera.html",
+		"/C/Users/Antoine/Desktop/AM/assets/css/bootstrap.css",
+		"/C/Users/Antoine/Desktop/ThumbnailGridExpandingPreview/index.html",
+		"/C/Users/Antoine/Desktop/ThumbnailGridExpandingPreview/css/style.css",
+		"/C/Users/Antoine/Desktop/flatstrap-master/assets/css/docs.css",
+		"/C/Users/Antoine/Desktop/flatstrap-master/assets/css/bootstrap.css",
+		"/C/Users/Antoine/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Antoine/Desktop/css3Hover/index6.html",
+		"/C/Users/Antoine/Desktop/css3Hover/css/style6.css",
+		"/C/Users/Antoine/Desktop/ThumbnailGridExpandingPreview/css/component.css",
+		"/C/Users/Antoine/Desktop/HorizontalDropDownMenu/css/default.css",
+		"/C/Users/Antoine/Desktop/HorizontalDropDownMenu/index.html",
+		"/C/Users/Antoine/Desktop/HorizontalDropDownMenu/js/cbpHorizontalMenu.js",
+		"/C/Users/Antoine/Desktop/AM/assets/js/jquery.js",
+		"/C/Users/Antoine/Desktop/comingsoon/css/style.css",
+		"/C/Users/Antoine/Desktop/comingsoon/index.html",
+		"/C/Users/Antoine/Desktop/comingsoon/htaccess",
+		"/C/Users/Antoine/Desktop/comingsoon/.htaccess",
+		"/C/Users/Antoine/Desktop/ProjectDOlist/index.html",
+		"/C/Users/Antoine/Desktop/ProjectDOlist/css/style.css",
+		"/C/Users/Antoine/Desktop/TP1/moduleC/liste.c",
+		"/C/Users/Antoine/Desktop/tpNoteLif9/arbre.c",
+		"/C/Users/Antoine/Desktop/TableauDynamique.c",
+		"/C/Users/Antoine/Desktop/Martin_Morieux/makefile",
+		"/C/Users/Antoine/Desktop/SQL.txt",
+		"/C/xampp/htdocs/calcul/style.css",
+		"/C/xampp/htdocs/calcul/index.html",
+		"/C/xampp/htdocs/calcul/calcul.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"span6",
+			"span12",
+			"avgrund",
+			"Avgrund",
+			"avgrund",
+			"work-content",
+			"=\"",
+			"#work",
+			".logo",
+			"work-opera",
+			"b",
+			" ><",
+			"active",
+			"></",
+			"25px",
+			"$mensualite = GET['mensualite'];"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"modal",
+			"work-am",
+			"work-zepass",
+			"menu"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 12738,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4044,
+								4044
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1051.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "assets/css/style.css",
+					"settings":
+					{
+						"buffer_size": 6668,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								230,
+								230
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4428.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "assets/js/am.js",
+					"settings":
+					{
+						"buffer_size": 3576,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								839,
+								873
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 162.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
