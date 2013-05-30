@@ -1,4 +1,21 @@
-@import  url(http://fonts.googleapis.com/css?family=Lato:300,400,700italic);
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Lato Light'), local('Lato-Light'), url(../../fonts/lato_light.woff) format('woff');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lato Regular'), local('Lato-Regular'), url(../../fonts/lato_normal.woff) format('woff');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Lato Bold Italic'), local('Lato-BoldItalic'), url(../../fonts/lato_bold.woff) format('woff');
+}
 
 body {
     font-family: Lato, sans-serif;
@@ -16,6 +33,10 @@ section {
 a {
     color: white;
     text-decoration: none;
+    -webkit-transition: all 1s ease-in-out;
+    -moz-transition: all 1s ease-in-out;
+    -o-transition: all 1s ease-in-out;
+    transition: all 1s ease-in-out;
 }
 
 a:hover {
@@ -222,9 +243,29 @@ a:hover {
   display:none;
 }
 
+.work-content a{
+  color:#a0cbd7;
+}
+
 .work-content h2{
   text-align: center;
 }
+
+.work-content img{
+  -moz-transition: all .3s;
+  -webkit-transition: all .3s;
+  -o-transition: all .3s;
+  transition: all .3s;
+}
+
+.work-content img:hover{
+  -moz-transform: scale(1.03);
+  -webkit-transform: scale(1.03);
+  -o-transform: scale(1.03);
+  -ms-transform: scale(1.03);
+  transform: scale(1.03);
+}
+
 
 .img-thumbnail{
   border-radius:50%;
@@ -372,6 +413,10 @@ a:hover {
 @media (max-width: 320px) {
   .work-content{
     width:220px;
+  }
+
+  .resume{
+    margin-top:150px;
   }
 
 }

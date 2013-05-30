@@ -106,3 +106,8 @@ $(document).ready(function() {
         return false; // j'empêche le navigateur de soumettre lui-même le formulaire
     });
 });
+
+
+// Google 
+
+
