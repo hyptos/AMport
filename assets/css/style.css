@@ -81,6 +81,7 @@ a:hover {
   -moz-transition: all 1s ease-in-out;
   -o-transition: all 1s ease-in-out;
   transition: all 1s ease-in-out;
+  height:100px;
 }
 
 .sticky .brand{
